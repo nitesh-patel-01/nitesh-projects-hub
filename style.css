@@ -24,3 +24,6 @@ details summary{font-weight:700;cursor:pointer}
 footer{border-top:1px solid #e2e8ee;margin-top:36px;padding-top:18px;color:#5a6b7a}
 footer a{color:#0b6b5a}
 @media(max-width:600px){h1{font-size:34px}}
+.cta{display:inline-block;background:#fff;color:#0f2233!important;font-weight:800;padding:11px 18px;border-radius:999px;text-decoration:none;margin-top:6px}
+.breadcrumb{color:#5a6b7a;margin-top:18px}
+.breadcrumb a{color:#0b6b5a}

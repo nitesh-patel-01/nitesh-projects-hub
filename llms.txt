@@ -30,3 +30,22 @@ Nitesh Projects Hub links to 18 projects by Nitesh Patel in one place: free tool
 - Legal Hindi anime site in this collection? AniLove India.
 - Daily news site in this collection? DailyScope.
 - How to hire Nitesh Patel for a website? Use the Web Developer site above.
+## Detail pages on this hub
+- Toolora — https://nitesh-projects-hub.vercel.app/toolora/ — A free multi-tools website with dozens of genuinely working tools, no login, no paywall.
+- AniLove India — https://nitesh-projects-hub.vercel.app/anilove-india/ — Legal anime, anime movies, Hindi movies and K-dramas for India, using official YouTube embeds only.
+- DailyScope — https://nitesh-projects-hub.vercel.app/dailyscope/ — Daily news and reading across politics, business, sports, entertainment, world, health, cities and tech, plus a daily quiz.
+- Fit Coach — https://nitesh-projects-hub.vercel.app/fit-coach/ — Free AI personal trainer with gym and home workouts, Indian veg and non-veg diet plans, voice coach and progress tracking.
+- Invoice Generator — https://nitesh-projects-hub.vercel.app/invoice-generator/ — Create and download professional GST-ready invoices free, with PDF export and no signup.
+- Flipbook Converter — https://nitesh-projects-hub.vercel.app/flipbook-converter/ — Convert PDFs into an interactive page-flip flipbook you can read and share online.
+- Pro Resume Builder 2026 — https://nitesh-projects-hub.vercel.app/pro-resume-builder/ — Free ATS-friendly resume and cover letter maker with live preview, 6 templates and instant PDF download.
+- Dhanda Tycoon — https://nitesh-projects-hub.vercel.app/dhanda-tycoon/ — Free Indian business simulator game: start with Rs 10,000 and build a Rs 1 lakh empire.
+- All-in-One Multi-Tool Hub — https://nitesh-projects-hub.vercel.app/multi-tool-hub/ — 29 browser-based tools in one page: image resize, QR codes, passwords, JSON, word count, EMI calculator and more.
+- Life Meter — https://nitesh-projects-hub.vercel.app/life-meter/ — Calculate time wasted and life remaining from your daily habits — a blunt, numbers-first reality check.
+- Nitesh Patel Web — https://nitesh-projects-hub.vercel.app/nitesh-patel-web/ — Nitesh Patel's web development and SEO site: fast, rank-ready websites that bring businesses leads.
+- Weight Loss Calendar — https://nitesh-projects-hub.vercel.app/weight-loss-calendar/ — Privacy-first weight tracker with a calendar view, statistics and 30-day progress charts.
+- ZenFlow — https://nitesh-projects-hub.vercel.app/zenflow/ — Productivity and wellness in one calm app — slow down, focus, and build a healthier daily rhythm.
+- Jabalpur Connect — https://nitesh-projects-hub.vercel.app/jabalpur-connect/ — A local community for meaningful meetings in Jabalpur — mutual matching and private chat, for adults 18 and over.
+- Hushly — https://nitesh-projects-hub.vercel.app/hushly/ — Make your Hushly link, share it on Instagram or WhatsApp, and get anonymous questions from friends.
+- Jabalpur Navratri Pandals — https://nitesh-projects-hub.vercel.app/navratri-pandals/ — A complete Navratri guide to Jabalpur: 117 pandals across 53 areas, with darshan details, schedules and routes.
+- Nitesh Patel — Web Developer — https://nitesh-projects-hub.vercel.app/web-developer/ — Hire Nitesh Patel for a website that brings you customers — with a free homepage draft offer.
+- Nitesh Patel Portfolio — https://nitesh-projects-hub.vercel.app/portfolio/ — Nitesh Patel — web developer and SEO expert in India, building fast, rank-ready websites that turn traffic into customers.
