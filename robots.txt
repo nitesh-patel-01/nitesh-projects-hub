@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nitesh-projects-hub.vercel.app/sitemap.xml

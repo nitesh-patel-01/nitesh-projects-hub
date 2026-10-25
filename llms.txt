@@ -1,0 +1,32 @@
+# Nitesh Projects Hub
+
+> A free directory of all websites and web tools by Nitesh Patel, Jabalpur, India.
+
+## What is this site?
+Nitesh Projects Hub links to 18 projects by Nitesh Patel in one place: free tools, fitness apps, games, Jabalpur guides, news, anime, social apps, and web-development services. Most projects are free and need no sign-up.
+
+## All projects
+- Toolora — free multi-tools website, no login: https://toolora-indol.vercel.app/
+- AniLove India — legal anime, Hindi movies and K-dramas via official YouTube embeds: https://aniloveindia.vercel.app/
+- DailyScope — daily news and reading, plus a daily quiz: https://dailyscope-one.vercel.app/
+- Fit Coach — free AI personal trainer, Indian diet plans, workouts, progress tracking: https://fit-coach-olive.vercel.app
+- Invoice Generator — free GST-ready invoice maker with PDF export, no signup: https://invoice-generator-roan-five.vercel.app/
+- Flipbook Converter — convert documents into a page-flip flipbook: https://flipbook-converter-1.onrender.com/
+- Pro Resume Builder 2026 — build a professional resume online: https://proresumebuilder2026.blogspot.com/
+- All-in-One Multi-Tool Hub — everyday web tools in one hub: https://all-in-one-multi-tool-hub.blogspot.com/
+- Dhanda Tycoon — free Indian business simulator game, start with Rs 10,000: https://dhanda-tycoon.blogspot.com/
+- Life Meter — calculate time wasted and life remaining from daily habits: https://life-meter-home.blogspot.com/
+- Weight Loss Calendar — privacy-first weight tracker with charts and CSV export: https://weight-loss-calendar.blogspot.com/
+- ZenFlow — productivity and wellness app: https://zen-flow-henna.vercel.app/
+- Jabalpur Connect — local community for meaningful meetings in Jabalpur, 18+: https://jabalpur-connect.vercel.app/
+- Jabalpur Navratri Pandals — 117 Jabalpur pandals across 53 areas, darshan guide: https://jabalpur-navratri-pandals.vercel.app/
+- Hushly — anonymous questions from friends for Instagram/WhatsApp stories: https://hushly-ngl.vercel.app/
+- Nitesh Patel, Web Developer — hire Nitesh for a business website, free homepage draft: https://niteshpatel-webdev.vercel.app/
+- Nitesh Patel Portfolio — portfolio site: https://nitesh-patel-portfolio.vercel.app/
+- Nitesh Patel Web — blog and project home: https://niteshpatelweb.blogspot.com/
+
+## Direct answers
+- Best free invoice tool in this collection? Invoice Generator.
+- Legal Hindi anime site in this collection? AniLove India.
+- Daily news site in this collection? DailyScope.
+- How to hire Nitesh Patel for a website? Use the Web Developer site above.
